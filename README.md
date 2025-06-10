@@ -2,7 +2,6 @@
 > *per aspera ad astra*
 - CS student @ UofT (batch 2028)
 - Interested in game dev, web dev and UI/UX design
-- Reach out primarily by email: frtheatelier@outlook.com
 
 ### Aside
 - I do digital art. (Slowly) posting old and recent art on **@frtheatelier** on instagram
