@@ -1,12 +1,14 @@
 ## @frtheatelier
 > *per aspera ad astra*
 - CS student @ UofT (batch 2028)
-- Interested in game dev, web dev and UI/UX design
+- Interested in web dev, game dev and UI/UX design
 
 ### Aside
 - I do digital art. (Slowly) posting old and recent art on **@frtheatelier** on instagram
-- Most of my projects are basic games made in Python or with Javascript logic
-- Currently trying to build a personal website
+- Most of my projects are web apps. **check out *aleatoire* for a snippet of what i did**
+
+### Currently learning
+- jQuery
 
 <!---
 frtheatelier/frtheatelier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
