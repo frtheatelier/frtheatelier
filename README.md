@@ -4,8 +4,13 @@
 - Interested in web dev, game dev and UI/UX design
 
 ### Aside
-- I do digital art. (Slowly) posting old and recent art on **@frtheatelier** on instagram
-- Most of my projects are web apps. **check out *aleatoire* for a snippet of what i did**
+- I do digital art. See more on Instagram at **@frtheatelier**
+- Most of my projects are web apps. **check out *[MISC-PROJECTS](https://frtheatelier.github.io/MISC-PROJECTS/)* for a snippet of what i did**
+
+### Prominent projects
+- [Capybara Bash](https://github.com/frtheatelier/Capybara-Bash-Game): 2D platformer prototype with moving platforms and cute graphics made for NewHacks 2024
+- [ClassQuest](https://github.com/frtheatelier/ClassQuest): Python game composed of two mini puzzles to get you to think. Made for ElleHacks 2025
+- [dashboard (Personal site)](https://github.com/frtheatelier/dashboard): Personal site with custom UI, showcasing my art and a few other projects
 
 <!---
 frtheatelier/frtheatelier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
