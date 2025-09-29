@@ -11,6 +11,7 @@
 - [Capybara Bash](https://github.com/frtheatelier/Capybara-Bash-Game): 2D platformer prototype with moving platforms and cute graphics made for NewHacks 2024
 - [ClassQuest](https://github.com/frtheatelier/ClassQuest): Python game composed of two mini puzzles to get you to think. Made for ElleHacks 2025
 - [dashboard (Personal site)](https://github.com/frtheatelier/dashboard): Personal site with custom UI, showcasing my art and a few other projects
+  - [Portfolio](https://frtheatelier.vercel.app): A larger collection of artworks; hosted on Vercel and made with React JS (front end) and Typescript
 
 <!---
 frtheatelier/frtheatelier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
