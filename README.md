@@ -1,5 +1,6 @@
 ## @frtheatelier
 > *per aspera ad astra*
+
 Interested in web dev, game dev and UI/UX design
 
 ### Aside
