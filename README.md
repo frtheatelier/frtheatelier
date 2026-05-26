@@ -1,7 +1,6 @@
 ## @frtheatelier
 > *per aspera ad astra*
-- CS student @ UofT (batch 2028)
-- Interested in web dev, game dev and UI/UX design
+Interested in web dev, game dev and UI/UX design
 
 ### Aside
 - I do digital art. See more on Instagram at **@frtheatelier**
